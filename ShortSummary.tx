@@ -1,0 +1,5 @@
+In this lab i learned how to use simpy to model how 
+shoppers go through as grocerystore. I created processes
+for shopper to come at random then shop then wait in line. 
+I also created checkers who are the people that ring up
+customers and the ide time if noone was waiting.
